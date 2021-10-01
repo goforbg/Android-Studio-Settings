@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="Kotlin/Introduce import alias" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
+  </component>
+</application>

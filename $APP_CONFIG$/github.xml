@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="e44e31bd-d952-41b7-b156-0b2114b9c4b7" name="goforbg">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
