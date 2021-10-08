@@ -1,8 +1,9 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" />
   </component>
 </application>
