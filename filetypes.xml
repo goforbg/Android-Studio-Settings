@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
       <mapping pattern="Usage" type="PLAIN_TEXT" />
@@ -9,7 +9,6 @@
       <mapping pattern="DEPRECATEDCODEFORBACKUP" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping pattern="mock_base_config_after_login" type="XML" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
